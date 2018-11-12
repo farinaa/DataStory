@@ -1,17 +1,17 @@
+/* whole document */
+body {
+  background: white;
+}
+
 h1 {
   font-size: 80px;
 }
 
-/* whole document */
-body {
- background: white;
-}
-
 header {
- background: white;
- height: 200px;
+  background: white;
+  height: 200px;
 }
 
 article#lorem-intro > p::first-line {
- font-size: 22px
+  font-size: 22px;
 }
