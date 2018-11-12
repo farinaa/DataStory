@@ -1,3 +1,17 @@
 h1 {
   font-size: 80px;
 }
+
+/* whole document */
+body {
+ background: white;
+}
+
+header {
+ height: 200px;
+ background: white;
+}
+
+article#lorem-intro > p::first-line {
+ font-size: 22px
+}
