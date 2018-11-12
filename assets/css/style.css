@@ -8,8 +8,8 @@ body {
 }
 
 header {
- height: 200px;
  background: white;
+ height: 200px;
 }
 
 article#lorem-intro > p::first-line {
