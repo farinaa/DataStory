@@ -1,4 +1,4 @@
-/* whole document */
+/* whole document (everything in <body>)*/
 body {
   background: white;
 }
@@ -12,6 +12,7 @@ header {
   height: 200px;
 }
 
+/* go to article with id name loerem-intro */
 article#lorem-intro > p::first-line {
   font-size: 22px;
 }
