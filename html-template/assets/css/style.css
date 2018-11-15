@@ -1,0 +1,11 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 200px;
+  background: green;
+  grid-gap: 15px;
+}
+
+section {
+  background: white;
+}
